@@ -1,0 +1,9 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  width: 375px;
+  height: 143px;
+}
