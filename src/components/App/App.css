@@ -1,9 +1,21 @@
-.app {
-  display: flex;
-  justify-content: center;
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-.chart {
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.widget {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
   width: 375px;
-  height: 143px;
+  padding: 25px;
 }
