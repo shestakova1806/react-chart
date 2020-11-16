@@ -1,0 +1,19 @@
+.nav {
+  width: 501px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.choice {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #bdbdc7;
+  text-decoration: none;
+}
+
+.active {
+  color: #111b42;
+}

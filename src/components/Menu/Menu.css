@@ -1,0 +1,58 @@
+.menu {
+  height: 490px;
+  width: 263px;
+  left: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: #ffffff;
+  border-radius: 0px 16px 16px 0px;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+.icon {
+  padding-right: 26px;
+  padding-left: 23px;
+}
+
+.menuChoice {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 17px;
+}
+
+.menuItem {
+  text-decoration: none;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #111b42;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.otherItem {
+  background: #f7f7f7;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  color: #4e8ef8;
+  text-decoration: none;
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.otherImage {
+  padding-left: 74px;
+}

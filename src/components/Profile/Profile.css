@@ -1,0 +1,63 @@
+.profile,
+.profileCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.profile {
+  margin: 27px 51px 13px 32px;
+}
+
+.profileCard {
+  margin-right: 20px;
+}
+
+.photo {
+  margin-right: 30px;
+}
+
+.name {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  color: #111b42;
+  margin-bottom: 13px;
+}
+
+.profile-icons img {
+  margin-bottom: 15px;
+  margin-right: 10px;
+}
+
+.subheader {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #111b42;
+  margin-bottom: 8px;
+}
+
+.description {
+  margin-top: 26px;
+}
+
+.profileContent {
+  display: flex;
+  flex-direction: column;
+}
+
+.profileContent {
+  width: 414px;
+  height: 196px;
+}
+
+.content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #777f90;
+}

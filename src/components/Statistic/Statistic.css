@@ -1,0 +1,74 @@
+.statistic {
+  display: flex;
+  flex-direction: column;
+}
+
+.subheader {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #111b42;
+  margin-bottom: 8px;
+}
+
+.stat {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.profileAnalyse {
+  width: 374px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 11px;
+}
+
+.mentions,
+.requests {
+  height: 181px;
+  width: 182px;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardContent {
+  padding: 16px 16px;
+  display: flex;
+  flex-direction: column;
+}
+
+.cardHeader {
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 17px;
+  text-align: center;
+  color: #111b42;
+}
+
+.number {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 88px;
+  text-align: center;
+}
+
+.content {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 17px;
+  color: #777f90;
+}
+
+.widget {
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+  width: 375px;
+  padding: 25px;
+}
