@@ -4,10 +4,6 @@ import { Legend } from "../Legend/Legend";
 import ProfilePhoto from "../../images/ProfilePhoto.png";
 import Pro from "../../images/Pro.png";
 import Frame from "../../images/Frame.png";
-import Path from "../../images/Path.png";
-import Writing from "../../images/Writing.png";
-import Person from "../../images/Person.png";
-import Connection from "../../images/Connection.png";
 import "./App.css";
 
 export const App = () => {
