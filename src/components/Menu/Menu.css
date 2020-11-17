@@ -15,6 +15,7 @@
 
 .icon {
   width: 26px;
+  max-height: 25px;
   margin-left: 26px;
   margin-right: 23px;
 }
