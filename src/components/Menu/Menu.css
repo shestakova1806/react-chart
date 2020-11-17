@@ -14,8 +14,9 @@
 }
 
 .icon {
-  padding-right: 26px;
-  padding-left: 23px;
+  width: 26px;
+  margin-left: 26px;
+  margin-right: 23px;
 }
 
 .menuChoice {

@@ -1,5 +1,4 @@
 import React from "react";
-import Arrow from "../../images/Menu/Arrow.svg";
 import Artplay from "../../images/Menu/Artplay.svg";
 import BlueNote from "../../images/Menu/BlueNote.svg";
 import Box from "../../images/Menu/Box.svg";

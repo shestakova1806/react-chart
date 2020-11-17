@@ -1,0 +1,51 @@
+.carouselBox {
+  width: 375px;
+  height: 86px;
+  background: #ffffff;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+  border-radius: 7px;
+}
+
+.forCarousel {
+  margin-top: 24px;
+  margin-bottom: 17px;
+}
+
+.boxWrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 28px 20px 18px 20px;
+}
+
+.navigation {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 22px;
+}
+
+.navigation a {
+  margin-top: 5px;
+}
+
+.dots {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dotItem {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #bdbdc7;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+
+.activeDot {
+  background: #4e8ef8;
+}
